@@ -18,11 +18,11 @@ node ./generate.js [user_number] [random1] [random2] (optional: server_url)
 
 All these arguments can be found by running RetroArch, and seeing the app logs (Apps > Retro Arch > Application info > View logs), and searching for `data\/`.
 
-![](./tutorial-1.png);
+![](./tutorial-1.png)
 
 After executing, an `out/` directory will be generated. Directory that you can upload to your own github repo, or serve through a local server in your phone (with an app like [Transfer](https://github.com/matan-h/Transfer) for example).
 
-![](./tutorial-2.png);
+![](./tutorial-2.png)
 
 ## Contributing
 
