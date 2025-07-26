@@ -24,3 +24,6 @@ After executing, an `out/` directory will be generated. Directory that you can u
 
 ![](./tutorial-2.png);
 
+## Contributing
+
+If the Daijishō platform index gets updated, let me know with an [issue](https://github.com/LuanHimmlisch/Daijishou-Index-Gen-GrapheneOS/issues).
